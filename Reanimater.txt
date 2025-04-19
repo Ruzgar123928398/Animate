@@ -16,7 +16,7 @@ settings["Names to exclude from transparency"] = {
 local finished = false
 
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/somethingsimade/currentangle-reanimate/refs/heads/main/main"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ruzgar123928398/Reanimate/refs/heads/main/CoolScripter.txt"))()
 end)
 
 repeat task.wait() until finished
