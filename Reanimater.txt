@@ -30,4 +30,5 @@ repeat task.wait() until finished
 -- yield is if the fling function will yield
 
 -- you can put your converted script under here
+wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ruzgar123928398/Reanimated/refs/heads/main/xester.txt",true))()
